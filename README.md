@@ -37,8 +37,8 @@ To get a local copy up and running it, follow these simple steps.
 
 ### Install
 
-To install linters please open the ***.github/workflows*** then get into ***linters.yml*** and check the instructions and commands.
-To install the libraries, please use the cmd: 
+- To install linters please open the ***.github/workflows*** then get into ***linters.yml*** and check the instructions and commands.
+- To install the libraries, please use the cmd: 
 > npm install
 
 ### Usage

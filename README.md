@@ -52,7 +52,7 @@ For educational purpose only, use it as a guideline.
 - LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-stoupignan-s%C3%A1nchez-beltr%C3%A1n-393180238/)
 
 ## Authors
-<link src="MIT.md">License MIT.md
+<a src="MIT.md">License MIT.md</a>
 
 ## 🤝 Contributing
 
@@ -63,8 +63,4 @@ Feel free to check the [issues page](../../issues/).
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## MIT LICENSE
-
-[](MIT.md)
 

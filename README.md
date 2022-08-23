@@ -52,7 +52,7 @@ For educational purpose only, use it as a guideline.
 - LinkedIn: [Erik Stoupignan Sánchez Beltrán](https://www.linkedin.com/in/erik-stoupignan-s%C3%A1nchez-beltr%C3%A1n-393180238/)
 
 ## Authors
-<a src="MIT.md">License MIT.md</a>
+<a href="MIT.md">License MIT.md</a>
 
 ## 🤝 Contributing
 
